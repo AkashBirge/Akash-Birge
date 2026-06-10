@@ -1,3 +1,26 @@
+# Hi , I'm Akash Birge
+**A Data Analyst from India**
+
+MCA Graduate | Power BI, SQL, Python, Statistics, Business Intelligence & Excel Enthusiast
+
+⚡My journey into data Analysis began with a simple interest in handling data, thanks to Excel and python, i enjoy sifting through data 
+  creating meaningful charts and understanding the story it tells
+
+*What I Do
+-Analyze and interpret complex datasets
+
+-Build interactive dashboards and reports using Power BI
+
+-Perform data cleaning, transformation, and modeling
+
+-Create business-focused visualizations and KPIs
+
+-Develop machine learning models for predictive analytics
+
+-Translate data into actionable recommendations
+
+
+Email Me ✉️ **kshbirge@gmail.com** For Collaboration/Project or Anything Else. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/akashbirge) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kshbirge@gmail.com) 
