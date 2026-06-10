@@ -16,8 +16,6 @@ MCA Graduate | Power BI, SQL, Python, Statistics, Business Intelligence & Excel 
 
 -Create business-focused visualizations and KPIs
 
--Develop machine learning models for predictive analytics
-
 -Translate data into actionable recommendations
 
 
