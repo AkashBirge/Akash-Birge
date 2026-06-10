@@ -7,6 +7,7 @@ MCA Graduate | Power BI, SQL, Python, Statistics, Business Intelligence & Excel 
   creating meaningful charts and understanding the story it tells
 
 *What I Do
+
 -Analyze and interpret complex datasets
 
 -Build interactive dashboards and reports using Power BI
